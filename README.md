@@ -11,9 +11,10 @@ Tick the **'Add Python to path'** button when first installing.
 ### Instructions
 Open the command line, and goto the path of the file.
 <br />
-Run the command ```pip install -r requirements.txt```
+Run the command **```pip install -r requirements.txt```**
 <br />
-After its done installing, open the command line and goto the path of the file.
+After its done installing, open the **command line** and **goto the path of the file.**
 <br />
-Then run ```python main.py```
-
+Then run **```python main.py```**
+<br />
+You may also just open it from file explorer, but if there are any errors it will autoclose.
