@@ -18,3 +18,4 @@ while True:
         print(f"Sent {content} to channel with ID {channelid}")
     else:
         print("Failed to send message! Invalid token perhaps?")
+        time.sleep(15)
