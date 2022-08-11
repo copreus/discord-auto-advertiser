@@ -23,4 +23,6 @@ You may also just open it from file explorer, but if there are any errors it wil
 ### Help
 To get your discord token, check out this article: https://www.androidauthority.com/get-discord-token-3149920/
 <br />
+<br />
+
 To get a channel id, check out this article: https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-#:~:text=On%20Android%20press%20and%20hold,name%20and%20select%20Copy%20ID.
