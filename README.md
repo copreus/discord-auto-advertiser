@@ -17,4 +17,5 @@ After its done installing, open the **command line** and **goto the path of the 
 <br />
 Then run **```python main.py```**
 <br />
+<br />
 You may also just open it from file explorer, but if there are any errors it will autoclose.
